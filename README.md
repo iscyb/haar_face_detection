@@ -1,2 +1,2 @@
-# computer_vision
-Testing of some computer vision algorithms and packages.
+# haar
+Testing haar features for facial features
